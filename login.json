@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "referenceCode": "referenceCode",
+  "firsName": "firsName",
+  "middleName": "middleName",
+  "lastName": "lastName",
+  "company": "company",
+  "employeeNumber": "employeeNumber",
+  "imageUrl": "imageUrl",
+  "designation": "designation",
+  "homeTelephone": "homeTelephone",
+  "mobileNumber": "mobileNumber",
+  "workTelephone": "workTelephone",
+  "workEmail": "workEmail",
+  "otherEmail": "otherEmail",
+  "rfid": "rfid"
+}
